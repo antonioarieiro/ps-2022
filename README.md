@@ -2,6 +2,10 @@
 ##### Hi, I'm Antonio Arieiro I'm Dev Jr. :boy: : 
 
 <h1 align="center">PS-2022 #1 </h1>
+<p>
+Preview:
+https://coruscating-cupcake-d1684b.netlify.app/
+</p>
 🚀 Descrição da atividade
 <p align="center">:open_file_folder: Projeto Utilizando TypeScript | React</p>
   <br>
