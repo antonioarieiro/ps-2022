@@ -2,8 +2,8 @@ import React from 'react';
 import styled from 'styled-components';
 
 const Container = styled.section`
-margin-top: 10px;
-display: flex;
+margin-top: 10px;display: flex;
+height: 100vh;
 flex-direction: column;
 align-items: center;
 justify-content: center;
@@ -32,7 +32,7 @@ font-family: Roboto,medium;
 
 const Cors: React.FC = () => {
   return (
-    <div>
+    <div style={{height: '100vh'}}>
       <Container>
         <Title>
           Cors
