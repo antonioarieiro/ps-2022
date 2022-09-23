@@ -1,5 +1,5 @@
 
-##### Hi, I'm Antonio Arieiro I'm Dev Jr. :boy: : 
+##### Hi, I'm Antonio Arieiro I'm Dev. :boy: : 
 
 <h1 align="center">PS-2022 #1 </h1>
 <p>
