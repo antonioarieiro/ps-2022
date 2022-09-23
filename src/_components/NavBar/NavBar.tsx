@@ -34,8 +34,6 @@ color: black;
 }
 `;
 
-
-
 const NavBar: React.FC = () => {
   const navigate = useNavigate();
   return (
@@ -53,6 +51,16 @@ const NavBar: React.FC = () => {
           onClick={() => { navigate('/why-to-react-manipullator-dom') }}
         >
           Como o React Manipula o DOM?
+        </Button>
+        <Button style={{ 'marginLeft': '32px' }}
+          onClick={() => { navigate('/cors') }}
+        >
+          CORS
+        </Button>
+        <Button style={{ 'marginLeft': '32px' }}
+          onClick={() => { navigate('/struct') }}
+        >
+          Estrutura
         </Button>
       </Wrapper>
     </div>
